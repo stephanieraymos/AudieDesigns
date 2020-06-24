@@ -14,6 +14,10 @@ export class Home extends Component {
             />
             <div className="banner-text">
               <h1>Graphic designer</h1>
+              <hr/>
+              <p>
+                Adobe Illustrator | Adobe Photoshop | Blender 
+              </p>
             </div>
           </Cell>
 

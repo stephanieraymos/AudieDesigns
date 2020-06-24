@@ -43,3 +43,15 @@ background: linear-gradient(to right, #99f2c8, #1f4037); /* W3C, IE 10+/ Edge, F
   padding: 1em;
   text-align: center;
 }
+
+.social-links {
+  display: flex;
+  justify-content: space-between;  
+  width: 50%;
+  margin: auto;
+}
+
+.social-links i {
+  color: white;
+  font-size: 5em;
+}

@@ -8,10 +8,11 @@ export class Home extends Component {
         <Grid className="home-grid">
           <Cell col={12}>
             <img
-              src="../src/img/avatar-2.png"
+              src="https://cdn0.iconfinder.com/data/icons/avatars-3/512/avatar_beanie_girl-512.png"
+              // src="../src/img/avatar-2.png"
               alt="Avatar"
               className="avatar"
-              style={{width: 100}}
+              style={{width: 300}}
             />
             <div className="banner-text">
               <h1>Graphic designer</h1>

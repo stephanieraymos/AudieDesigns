@@ -65,6 +65,10 @@ height: 100%;
   display: flex;
 }
 
+.card-style {
+  margin: 10px;
+}
+
   /*Contact Page*/
 
   .contact-body {
@@ -100,7 +104,7 @@ height: 100%;
   }
 
   .contact-list i {
-    font-size: 50px;
-    padding-right: 5rem;
+    font-size: 45px;
+    padding-right: 3rem;
   }
   /*Contact Page END*/

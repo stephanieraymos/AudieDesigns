@@ -33,7 +33,7 @@ export class Home extends Component {
                   <i className="fa fa-facebook-square" aria-hidden="true" />
                 </a>
                 {/* Youtube */}
-                <a href="" rel="noopener noreferrer" target="_blank">
+                <a href="youtube.com" rel="noopener noreferrer" target="_blank">
                   <i className="fa fa-youtube-square" aria-hidden="true" />
                 </a>
               </div>

@@ -65,50 +65,42 @@ height: 100%;
   display: flex;
 }
 
-/*Contact Page*/
+  /*Contact Page*/
 
-.contact-body {
-  margin: auto;
-  position: fixed;
-  width: 100%;
-  height: 100%;
-  justify-content: center;
-  padding-top: 2em;
-}
+  .contact-body {
+    margin: auto;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    padding-top: 2em;
+  }
 
-.contact-grid {
-  text-align: center;
-  justify-content: center;
-  width: 80%;
-  height: 550px;
-  background: white;
-  color: black;
-  margin-bottom: 20px;
-}
+  .contact-grid {
+    text-align: center;
+    justify-content: center;
+    background: white;
+    color: black;
+    margin-bottom: 20px;
+  }
 
-.contact-grid h2 {
-  font-family: 'Sacramento', sans-serif;
-}
+  .contact-grid h2 {
+    font-family: 'Sacramento', sans-serif;
+  }
+  
+  .contact-grid p {
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+    padding-bottom: 20px;
+  }
 
-.contact-grid p {
-  font-family: 'Oswald', sans-serif;
-  font-weight: bold;
-}
+  .contact-grid hr {
+    border-top: 2px solid black;
+    width: 50%;
+    margin: auto;
+  }
 
-.contact-grid hr {
-  border-top: 2px solid black;
-  width: 50%;
-  margin: auto;
-}
-
-/* .contact-list {
-  justify-content: center;
-  align-items: center;
-} */
-
-.contact-list i {
-  font-size: 50px;
-  padding-right: 5rem;
-}
-
-/*Contact Page END*/
+  .contact-list i {
+    font-size: 50px;
+    padding-right: 5rem;
+  }
+  /*Contact Page END*/

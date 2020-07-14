@@ -11,7 +11,7 @@ export class App extends Component {
         <Layout>
           <Header className="header-color" title="Title" scroll>
             <Navigation>
-              <Link to="/home">Home</Link>
+              <Link to="/">Home</Link>
               <Link to="/about">About</Link>
               <Link to="/projects">Projects</Link>
               <Link to="/contact">Contact</Link>
@@ -19,7 +19,7 @@ export class App extends Component {
           </Header>
           <Drawer title="Title">
             <Navigation>
-              <Link to="/home">Home</Link>
+              <Link to="/">Home</Link>
               <Link to="/about">About</Link>
               <Link to="/projects">Projects</Link>
               <Link to="/contact">Contact</Link>

@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Grid, Cell } from 'react-mdl';
-import avatar from './img/avatar.png'
+import avatar from './img/avatar-2.png'
 
 export class Home extends Component {
   render() {
